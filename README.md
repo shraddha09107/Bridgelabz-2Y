@@ -98,3 +98,26 @@ This repository documents my **Java learning journey** during the *Bridgelabz Tr
 This section includes basic and intermediate Java programs designed to reinforce core concepts.
 
 ### 📂 Project Structure
+
+### 🔹 Assisted Problems
+1. **Welcome to Bridgelabz!** — Print a welcome message  
+2. **Add Two Numbers** — Read two numbers and print their sum  
+3. **Celsius to Fahrenheit** — Convert Celsius to Fahrenheit  
+4. **Area of Circle** — `Area = π * radius²`  
+5. **Volume of Cylinder** — `Volume = π * radius² * height`
+
+### 🔸 Self Problems
+1. **Simple Interest** — `(P * R * T) / 100`  
+2. **Perimeter of Rectangle** — `2 * (length + width)`  
+3. **Power Calculation** — `Math.pow(base, exponent)`  
+4. **Average of Three Numbers**  
+5. **Convert Kilometers to Miles** — `Miles = Km * 0.621371`
+
+---
+
+## ⚙️ How to Run Java Programs
+
+1️⃣ **Compile**
+```sh
+javac FileName.java
+
