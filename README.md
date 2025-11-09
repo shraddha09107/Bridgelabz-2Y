@@ -1,5 +1,5 @@
 ---
-title: "Java Practice Problems"
+title: "Java Practice Problem"
 output: github_document
 ---
 
