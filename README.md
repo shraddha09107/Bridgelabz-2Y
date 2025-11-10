@@ -1,105 +1,113 @@
+# 🚀 Bridgelabz-2415500440-Training  
+### 🧠 Java Learning Log  
+
+This repository documents my *Java learning journey* during the *Bridgelabz Training Program*.  
+Each branch focuses on specific Java concepts, progressing from the basics to advanced topics like *Functional Interfaces, **Lambda Expressions, and **Exception Handling*.  
+
 ---
-title: "Java Practice Problems"
-output: github_document
+
+## 🌿 Repository Structure  
+
+Each branch represents a separate Java learning module:  
+
+| Branch Name | Description |
+|--------------|-------------|
+| java-core | Covers Java fundamentals — syntax, data types, loops, arrays,strings and basic logic building |
+| java-oops | Focuses on Object-Oriented Programming concepts — classes, inheritance, polymorphism, abstraction, encapsulation |
+| packages-in-java | Explains how to organize Java code using packages and imports |
+| wrapper-class | Demonstrates Wrapper Classes, Autoboxing, and Unboxing |
+| functional-interface | Covers Functional Interfaces, Default/Static methods, and Lambda usage |
+| error-and-exception | Focuses on Exception Handling, including custom and built-in exceptions |
+| lambda-expression | Demonstrates real-world examples using Lambda Expressions and functional-style coding |
+
 ---
 
-# Java Practice Problems
+## 📅 Weekly Java Learning Progress  
 
-This repository contains Java programs that solve basic programming exercises.  
-The problems are divided into **Assisted Problems** (guided examples) and **Self Problems** (practice exercises).  
-Each problem is implemented as a **separate Java file** for better readability and testing.
+### *🗓 August 11–13, 2025*  
+- Set up *Git Bash* and learned how to use it for version control  
+- Understood the difference between *Git, **Git Bash, and **GitHub*  
+- Practiced basic Git commands: init, add, commit, push, clone, etc.  
+- Learned best practices for using Git and maintaining repositories  
+- Solved basic Java problems to strengthen foundational logic  
 
-## 📂 Project Structure
+---
 
-```
-JavaPracticeProblems/
-│
-├── Assisted Problems/
-│   ├── Welcome.java
-│   ├── AddTwoNumbers.java
-│   ├── CelsiusToFahrenheit.java
-│   ├── AreaOfCircle.java
-│   └── VolumeOfCylinder.java
-│
-├── Self Problems/
-│   ├── SimpleInterest.java
-│   ├── PerimeterOfRectangle.java
-│   ├── PowerCalculation.java
-│   ├── AverageOfThreeNumbers.java
-│   └── KmToMiles.java
-│
-└── README.rmd
-```
+### *🗓 August 18–20, 2025*  
+- Started learning *Java programming fundamentals*  
+- Studied main *elements of Java* — syntax, keywords, data types, and variables  
+- Understood *Java structure* — main() method, statements, and flow  
+- Practiced simple *input/output* programs and got comfortable with the *Java development environment*  
 
-## 💻 Problems Overview
+---
 
-### Assisted Problems
-1. **Welcome to Bridgelabz!**  
-   Prints `"Welcome to Bridgelabz!"` to the console.
+### *🗓 August 25–27, 2025*  
+- Learned *control flow statements* — if, else, switch, for, while, do-while  
+- Understood *decision-making and iteration* in Java  
+- Studied *arrays (1D and 2D)* — declaration, initialization, traversal  
+- Implemented programs using *nested loops* and *matrix operations*  
 
-2. **Add Two Numbers**  
-   Takes two numbers from the user and prints their sum.
+---
 
-3. **Celsius to Fahrenheit Conversion**  
-   Converts temperature from Celsius to Fahrenheit using:  
-   `Fahrenheit = (Celsius * 9/5) + 32`
+### *🗓 September 1–3, 2025*  
+- Explored *edge cases* and handling boundary conditions in programs  
+- Learned *methods* — declaration, parameters, and return types  
+- Practiced writing *user-defined methods* for modular coding  
+- Studied *Strings*, their immutability, and manipulation  
+- Learned about *StringBuffer* and *StringBuilder* for efficient string operations  
+- Compared *String vs StringBuffer vs StringBuilder*  
 
-4. **Area of a Circle**  
-   Calculates area:  
-   `Area = π * radius²`
+---
 
-5. **Volume of a Cylinder**  
-   Calculates volume:  
-   `Volume = π * radius² * height`
+### *🗓 September 8–10, 2025*  
+- Introduced to *OOPs concepts* — Encapsulation, Inheritance, Polymorphism, and Abstraction  
+- Studied *constructors* — default, parameterized, and copy  
+- Understood *instance vs static variables*  
+- Learned *access modifiers* — public, private, protected, default  
+- Practiced *inheritance* and created hierarchical class relationships  
 
-### Self Problems
-1. **Calculate Simple Interest**  
-   Formula: `(Principal * Rate * Time) / 100`
+---
 
-2. **Perimeter of a Rectangle**  
-   Formula: `2 * (length + width)`
+### *🗓 September 15–17, 2025*  
+- Studied advanced *OOPs concepts* — Interfaces, Abstract Classes, and Polymorphism  
+- Practiced *Method Overloading* and *Method Overriding*  
+- Understood *Upcasting* and *Downcasting* with examples  
+- Implemented *Abstract Classes and Interfaces* together  
+- Strengthened conceptual understanding with practical code  
 
-3. **Power Calculation**  
-   Calculates `base^exponent` using `Math.pow()`.
+---
 
-4. **Average of Three Numbers**  
-   Finds the average of three input numbers.
+### *🗓 September 22–24, 2025*  
+- Solved *real-world Java problems* applying OOP concepts  
+- Implemented *Inheritance, **Polymorphism, **Abstraction, and **Encapsulation*  
+- Focused on writing *structured, reusable, and modular* code  
 
-5. **Convert Kilometers to Miles**  
-   Formula: `Miles = Kilometers * 0.621371`
+---
 
-## ⚙️ How to Run
+### *🗓 October 13–15, 2025*  
+- Completed *Interfaces in Java*  
+- Learned to define and implement *Interfaces* effectively  
+- Explored *Functional Interfaces, **Default/Static Methods, and **Marker Interfaces*  
+- Introduced to *Lambda Expressions* for concise, modern coding  
+- Practiced using *Lambdas with Interfaces* for optimization  
 
-### 1. Compile the Java File
-Navigate to the folder where your `.java` file is stored and run:
-```sh
-javac FileName.java
-```
+---
 
-### 2. Run the Compiled Program
-```sh
-java FileName
-```
+### *🗓 October 27–29, 2025*  
+- Studied *Packages* — creation, purpose, and importing classes  
+- Learned *Exception Handling* — try, catch, finally, throw, throws  
+- Understood *checked vs unchecked exceptions*  
+- Created *Custom Exceptions*  
+- Studied *Wrapper Classes, **Autoboxing, and **Unboxing*  
+- Integrated *Packages + Exceptions + Wrapper Classes* in projects  
 
-**Example:**
-```sh
-javac AddTwoNumbers.java
-java AddTwoNumbers
-```
+--- 
 
-## 🛠 Requirements
-- **Java JDK 8+**  
-- Any IDE such as IntelliJ IDEA, Eclipse, or VS Code with Java extension  
-- Terminal/Command Prompt for running programs
+---
 
-## 📚 Learning Goals
-- Basic Java syntax  
-- User input handling with `Scanner`  
-- Arithmetic operations and formulas  
-- Using Java's `Math` library functions  
-- Writing modular, single-purpose programs
+## 🧰 Tools Used  
+- *Java JDK 25*
+- *IntelliJ IDEA*  
+- *Git & GitHub* for version control
 
-## 🚀 Next Steps
-- Combine all problems into **one menu-driven application**  
-- Add **unit tests** for automated checking  
-- Refactor into **object-oriented** versions
+---
