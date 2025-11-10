@@ -107,7 +107,8 @@ Each branch represents a separate Java learning module:
 
 ## 🧰 Tools Used  
 - *Java JDK 25*
-- *IntelliJ IDEA*  
+- *IntelliJ IDEA*
+- *ECLIPSE IDE* 
 - *Git & GitHub* for version control
 
 ---
